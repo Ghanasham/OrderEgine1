@@ -3,8 +3,7 @@ OrderEgine1
 This is java (eclipse) project for Pizza Order Engine.
 Orders are submitted in json format.
 
-Order updates
-Updates are newline-separated (nn) JSON objects, required to have at least
+Order updates are newline-separated JSON objects, required to have at least
 these three fields:
 • orderId: a signed integer,
 • updateId: a signed integer,
